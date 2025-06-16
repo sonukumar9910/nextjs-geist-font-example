@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/project/sandbox/user-workspace/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/project/sandbox/user-workspace/wwwroot/images/building1.jpg",
+      "PackagePath": "staticwebassets/images/building1.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ImageSlider.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ImageSlider.props",
+      "PackagePath": "build\\ImageSlider.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ImageSlider.props",
+      "PackagePath": "buildMultiTargeting\\ImageSlider.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ImageSlider.props",
+      "PackagePath": "buildTransitive\\ImageSlider.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
