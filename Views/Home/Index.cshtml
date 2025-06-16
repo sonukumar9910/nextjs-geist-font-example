@@ -1,0 +1,54 @@
+@{
+    ViewData["Title"] = "Image Slider";
+}
+
+<div class="container">
+    <h1 class="title">From digital presence to lead generation & management, do all.</h1>
+
+    <div class="slider-container">
+        <div class="slider">
+            <div class="slide-track">
+                <!-- First Set of Images -->
+                <div class="slide">
+                    <img src="https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg" alt="Modern building" />
+                </div>
+                <div class="slide">
+                    <img src="https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg" alt="Apartment complex" />
+                </div>
+                <div class="slide">
+                    <img src="https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg" alt="Modern architecture" />
+                </div>
+
+                <!-- Duplicate Set for Seamless Loop -->
+                <div class="slide">
+                    <img src="https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg" alt="Modern building" />
+                </div>
+                <div class="slide">
+                    <img src="https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg" alt="Apartment complex" />
+                </div>
+                <div class="slide">
+                    <img src="https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg" alt="Modern architecture" />
+                </div>
+            </div>
+        </div>
+
+        <!-- Slider Navigation Dots -->
+        <div class="slider-dots">
+            <span class="dot active"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+        </div>
+    </div>
+
+    <!-- CTA Button -->
+    <div class="cta-container">
+        <button class="cta-button">Make your Business Super-strong</button>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // No JavaScript needed for the slider animation
+        // The animation is handled purely by CSS
+    </script>
+}
