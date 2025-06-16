@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "c5cUC9T2CmI+k9tA4qCHjH09dzHDgXPjypt7pgCaHK8=",
+  "Source": "ImageSlider",
+  "BasePath": "_content/ImageSlider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageSlider/wwwroot",
+      "Source": "ImageSlider",
+      "ContentRoot": "/project/sandbox/user-workspace/wwwroot/",
+      "BasePath": "_content/ImageSlider",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/project/sandbox/user-workspace/wwwroot/css/site.css",
+      "SourceId": "ImageSlider",
+      "SourceType": "Discovered",
+      "ContentRoot": "/project/sandbox/user-workspace/wwwroot/",
+      "BasePath": "_content/ImageSlider",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/project/sandbox/user-workspace/wwwroot/images/building1.jpg",
+      "SourceId": "ImageSlider",
+      "SourceType": "Discovered",
+      "ContentRoot": "/project/sandbox/user-workspace/wwwroot/",
+      "BasePath": "_content/ImageSlider",
+      "RelativePath": "images/building1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/building1.jpg"
+    }
+  ]
+}
